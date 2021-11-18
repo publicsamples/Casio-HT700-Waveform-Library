@@ -1,0 +1,39 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - ht700-Cycles.exs    by EXS2SFZ 1.1.9 - Beta v10 (macOS)
+
+<control>
+default_path=w/
+
+<group>        // Group
+<region> sample=htwt-19.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=76 hivel=79 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-02.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=8 hivel=11 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-26.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=104 hivel=107 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-16.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=64 hivel=67 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-01.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=4 hivel=7 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-14.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=56 hivel=59 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-08.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=32 hivel=35 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-22.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=88 hivel=91 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-27.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=108 hivel=111 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-25.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=100 hivel=103 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-29.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=116 hivel=119 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-17.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=68 hivel=71 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-30.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=120 hivel=123 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-18.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=72 hivel=75 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-11.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=44 hivel=47 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-13.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=52 hivel=55 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-03.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=12 hivel=15 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-20.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=80 hivel=83 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-04.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=16 hivel=19 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-15.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=60 hivel=63 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-00.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=0 hivel=3 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-28.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=112 hivel=115 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-31.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=124 hivel=127 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-10.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=40 hivel=43 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-21.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=84 hivel=87 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-12.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=48 hivel=51 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-05.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=20 hivel=23 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-23.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=92 hivel=95 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-09.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=36 hivel=39 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-24.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=96 hivel=99 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-07.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=28 hivel=31 loop_mode=loop_continuous loop_start=0 loop_end=256
+<region> sample=htwt-06.wav pitch_keycenter=48 lokey=3 hikey=127 lovel=24 hivel=27 loop_mode=loop_continuous loop_start=0 loop_end=256

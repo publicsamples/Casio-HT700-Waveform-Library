@@ -1,0 +1,51 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - ht700-29.exs    by EXS2SFZ 1.1.9 - Beta v10 (macOS)
+
+<control>
+default_path=../Audio/HT-700 Filter/
+
+<group>        // Drag&Drop
+<region> sample=29-HTfilter-96-C6.wav pitch_keycenter=96 lokey=91 hikey=127 lovel=80 hivel=95 volume=12 offset=401 loop_mode=loop_continuous loop_start=83184 loop_end=141358
+<region> sample=29-HTfilter-111-C4.wav pitch_keycenter=72 lokey=67 hikey=78 lovel=96 hivel=111 volume=11 offset=304 loop_mode=loop_continuous loop_start=99463 loop_end=144548
+<region> sample=29-HTfilter-16-C2.wav pitch_keycenter=48 lokey=43 hikey=54 lovel=0 hivel=15 volume=12 offset=302 loop_mode=loop_continuous loop_start=86481 loop_end=137358
+<region> sample=29-HTfilter-64-C2.wav pitch_keycenter=48 lokey=43 hikey=54 lovel=48 hivel=63 volume=12 offset=408 loop_mode=loop_continuous loop_start=86578 loop_end=140488
+<region> sample=29-HTfilter-111-C1.wav pitch_keycenter=36 lokey=0 hikey=42 lovel=96 hivel=111 volume=12 offset=304 loop_mode=loop_continuous loop_start=102621 loop_end=130265
+<region> sample=29-HTfilter-111-C2.wav pitch_keycenter=48 lokey=43 hikey=54 lovel=96 hivel=111 volume=12 offset=259 loop_mode=loop_continuous loop_start=113452 loop_end=143456
+<region> sample=29-HTfilter-48-C1.wav pitch_keycenter=36 lokey=0 hikey=42 lovel=32 hivel=47 volume=12 offset=244 loop_mode=loop_continuous loop_start=66759 loop_end=117958
+<region> sample=29-HTfilter-96-C2.wav pitch_keycenter=48 lokey=43 hikey=54 lovel=80 hivel=95 volume=12 offset=298 loop_mode=loop_continuous loop_start=113132 loop_end=142457
+<region> sample=29-HTfilter-80-C2.wav pitch_keycenter=48 lokey=43 hikey=54 lovel=64 hivel=79 volume=12 offset=245 loop_mode=loop_continuous loop_start=86769 loop_end=140351
+<region> sample=29-HTfilter-48-C5.wav pitch_keycenter=84 lokey=79 hikey=127 lovel=32 hivel=47 volume=12 offset=360 loop_mode=loop_continuous loop_start=94838 loop_end=121905
+<region> sample=29-HTfilter-127-C2.wav pitch_keycenter=48 lokey=43 hikey=54 lovel=112 hivel=127 volume=12 offset=464 loop_mode=loop_continuous loop_start=113321 loop_end=143329
+<region> sample=29-HTfilter-64-C6.wav pitch_keycenter=96 lokey=91 hikey=127 lovel=48 hivel=63 volume=12 offset=363 end=241376 loop_mode=loop_continuous loop_start=135744 loop_end=182652
+<region> sample=29-HTfilter-127-C5.wav pitch_keycenter=84 lokey=79 hikey=90 lovel=112 hivel=127 volume=10 offset=449 loop_mode=loop_continuous loop_start=91108 loop_end=119719
+<region> sample=29-HTfilter-32-C3.wav pitch_keycenter=60 lokey=55 hikey=66 lovel=16 hivel=31 volume=12 offset=377 loop_mode=loop_continuous loop_start=81456 loop_end=119357
+<region> sample=29-HTfilter-80-C6.wav pitch_keycenter=96 lokey=91 hikey=127 lovel=64 hivel=79 volume=12 offset=403 loop_mode=loop_continuous loop_start=108934 loop_end=138615
+<region> sample=29-HTfilter-80-C5.wav pitch_keycenter=84 lokey=79 hikey=90 lovel=64 hivel=79 volume=12 offset=244 loop_mode=loop_continuous loop_start=96285 loop_end=124544
+<region> sample=29-HTfilter-80-C1.wav pitch_keycenter=36 lokey=0 hikey=42 lovel=64 hivel=79 volume=12 offset=366 loop_mode=loop_continuous loop_start=68946 loop_end=122865
+<region> sample=29-HTfilter-64-C5.wav pitch_keycenter=84 lokey=79 hikey=90 lovel=48 hivel=63 volume=12 offset=299 loop_mode=loop_continuous loop_start=78933 loop_end=143105
+<region> sample=29-HTfilter-96-C4.wav pitch_keycenter=72 lokey=67 hikey=78 lovel=80 hivel=95 volume=12 offset=347 loop_mode=loop_continuous loop_start=100249 loop_end=144480
+<region> sample=29-HTfilter-111-C6.wav pitch_keycenter=96 lokey=91 hikey=127 lovel=96 hivel=111 volume=10 offset=225 loop_mode=loop_continuous loop_start=103544 loop_end=131527
+<region> sample=29-HTfilter-64-C4.wav pitch_keycenter=72 lokey=67 hikey=78 lovel=48 hivel=63 volume=12 offset=299 loop_mode=loop_continuous loop_start=96075 loop_end=146520
+<region> sample=29-HTfilter-127-C3.wav pitch_keycenter=60 lokey=55 hikey=66 lovel=112 hivel=127 volume=11 offset=497 loop_mode=loop_continuous loop_start=102979 loop_end=140919
+<region> sample=29-HTfilter-48-C4.wav pitch_keycenter=72 lokey=67 hikey=78 lovel=32 hivel=47 volume=12 offset=262 loop_mode=loop_continuous loop_start=74554 loop_end=106883
+<region> sample=29-HTfilter-16-C4.wav pitch_keycenter=72 lokey=67 hikey=127 lovel=0 hivel=15 volume=12 offset=343 loop_mode=loop_continuous loop_start=67841 loop_end=94116
+<region> sample=29-HTfilter-16-C1.wav pitch_keycenter=36 lokey=0 hikey=42 lovel=0 hivel=15 volume=12 offset=345 loop_mode=loop_continuous loop_start=73650 loop_end=124865
+<region> sample=29-HTfilter-127-C1.wav pitch_keycenter=36 lokey=0 hikey=42 lovel=112 hivel=127 volume=12 offset=270 loop_mode=loop_continuous loop_start=89111 loop_end=145081
+<region> sample=29-HTfilter-111-C3.wav pitch_keycenter=60 lokey=55 hikey=66 lovel=96 hivel=111 volume=12 offset=239 loop_mode=loop_continuous loop_start=104731 loop_end=142666
+<region> sample=29-HTfilter-48-C2.wav pitch_keycenter=48 lokey=43 hikey=54 lovel=32 hivel=47 volume=12 offset=625 loop_mode=loop_continuous loop_start=79363 loop_end=132583
+<region> sample=29-HTfilter-127-C6.wav pitch_keycenter=96 lokey=91 hikey=127 lovel=112 hivel=127 volume=9 offset=359 loop_mode=loop_continuous loop_start=111586 loop_end=141304
+<region> sample=29-HTfilter-32-C1.wav pitch_keycenter=36 lokey=0 hikey=42 lovel=16 hivel=31 volume=12 offset=230 loop_mode=loop_continuous loop_start=89667 loop_end=140864
+<region> sample=29-HTfilter-80-C3.wav pitch_keycenter=60 lokey=55 hikey=66 lovel=64 hivel=79 volume=12 offset=388 loop_mode=loop_continuous loop_start=97588 loop_end=135677
+<region> sample=29-HTfilter-96-C3.wav pitch_keycenter=60 lokey=55 hikey=66 lovel=80 hivel=95 volume=12 offset=403 loop_mode=loop_continuous loop_start=106548 loop_end=144983
+<region> sample=29-HTfilter-32-C5.wav pitch_keycenter=84 lokey=79 hikey=127 lovel=16 hivel=31 volume=12 offset=388 loop_mode=loop_continuous loop_start=64825 loop_end=96437
+<region> sample=29-HTfilter-127-C4.wav pitch_keycenter=72 lokey=67 hikey=78 lovel=112 hivel=127 volume=11 offset=386 loop_mode=loop_continuous loop_start=110838 loop_end=143199
+<region> sample=29-HTfilter-64-C3.wav pitch_keycenter=60 lokey=55 hikey=66 lovel=48 hivel=63 volume=12 offset=327 loop_mode=loop_continuous loop_start=96513 loop_end=134764
+<region> sample=29-HTfilter-32-C4.wav pitch_keycenter=72 lokey=67 hikey=78 lovel=16 hivel=31 volume=12 offset=217 loop_mode=loop_continuous loop_start=72141 loop_end=103795
+<region> sample=29-HTfilter-32-C2.wav pitch_keycenter=48 lokey=43 hikey=54 lovel=16 hivel=31 volume=12 offset=553 loop_mode=loop_continuous loop_start=96799 loop_end=123408
+<region> sample=29-HTfilter-64-C1.wav pitch_keycenter=36 lokey=0 hikey=42 lovel=48 hivel=63 volume=12 offset=277 loop_mode=loop_continuous loop_start=63456 loop_end=142299
+<region> sample=29-HTfilter-96-C5.wav pitch_keycenter=84 lokey=79 hikey=90 lovel=80 hivel=95 volume=11 offset=333 loop_mode=loop_continuous loop_start=83987 loop_end=112379
+<region> sample=29-HTfilter-96-C1.wav pitch_keycenter=36 lokey=0 hikey=42 lovel=80 hivel=95 volume=12 offset=319 loop_mode=loop_continuous loop_start=71610 loop_end=126216
+<region> sample=29-HTfilter-111-C5.wav pitch_keycenter=84 lokey=79 hikey=90 lovel=96 hivel=111 volume=10 offset=385 loop_mode=loop_continuous loop_start=85103 loop_end=113499
+<region> sample=29-HTfilter-16-C3.wav pitch_keycenter=60 lokey=55 hikey=66 lovel=0 hivel=15 volume=12 offset=362 loop_mode=loop_continuous loop_start=84522 loop_end=128334
+<region> sample=29-HTfilter-80-C4.wav pitch_keycenter=72 lokey=67 hikey=78 lovel=64 hivel=79 volume=12 offset=351 loop_mode=loop_continuous loop_start=83155 loop_end=126870
+<region> sample=29-HTfilter-48-C3.wav pitch_keycenter=60 lokey=55 hikey=66 lovel=32 hivel=47 volume=12 offset=300 loop_mode=loop_continuous loop_start=101182 loop_end=139253

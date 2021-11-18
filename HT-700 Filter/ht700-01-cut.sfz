@@ -1,0 +1,21 @@
+<control>
+default_path=../Audio/HT-700 Filter/
+
+<group> //1
+xfin_locc1=0 xfin_hicc1=127 xfout_xf_velcurve=power
+
+<region> sample=01-HTfilter-80-C_3.wav key=c4 hikey=g8 lokey=c-2 amp_veltrack=0 tune=-1 volume=12 offset=120800 end=177247 loop_start=120800 loop_end=177247
+
+<group> //2
+xfin_locc1=33 xfin_hicc1=64 xfout_ xf_velcurve=power
+
+<region> sample=01-HTfilter-96-C_3.wav key=c4 hikey=g8 lokey=c-2  amp_veltrack=0 tune=-1 volume=12 offset=111763 end=174266 loop_start=111763 loop_end=174266
+
+<group> //3
+xfin_locc1=65 xfin_hicc1=96 xf_velcurve=power
+
+<region> sample=01-HTfilter-111-C_3.wav key=c4 hikey=g8 lokey=c-2  amp_veltrack=0 tune=-1 volume=12 offset=84880 end=177525 loop_start=84880 loop_end=177525
+
+<group> //4
+xfin_locc1=97 xfin_hicc1=127  xf_velcurve=power
+<region> sample=01-HTfilter-127-C_3.wav key=c4 hikey=g8 lokey=c-2 amp_veltrack=0 tune=-2 volume=12 offset=90275 end=153101 loop_start=90275 loop_end=153101

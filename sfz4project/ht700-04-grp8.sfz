@@ -1,0 +1,42 @@
+//------------------------------------------------------------------------------------------------------------------------------------------------
+// sfz Definition File
+// Version 2
+// created by Bjoerns Sample Mapper 0.6.59  -  http://www.bjoernbojahr.de/
+//------------------------------------------------------------------------------------------------------------------------------------------------
+
+<control>
+default_path=../Audio/HT-700 Filter/
+label_cc1=layer
+
+<group> //Group 01
+xfin_locc1=0 xfin_hicc1=16 xfout_xf_velcurve=power
+<region> sample=04-HTfilter-16-C_2.wav key=c3 hikey=g8 lokey=c-2 tune=-1 volume=12 offset=95248 end=178862 loop_start=95248 loop_end=178862
+
+<group> //1
+xfin_locc1=17 xfin_hicc1=32 xfout_xf_velcurve=power
+<region> sample=04-HTfilter-32-C_2.wav key=c3 hikey=g8 lokey=c-2 volume=12 offset=75310 end=144763 loop_start=75310 loop_end=144763
+
+<group> //2
+xfin_locc1=33 xfin_hicc1=48 xfout_xf_velcurve=power
+<region> sample=04-HTfilter-48-C_2.wav key=c3 hikey=g8 lokey=c-2 volume=12 offset=77558 end=138581 loop_start=77558 loop_end=138581
+
+<group> //3
+xfin_locc1=49 xfin_hicc1=64 xfout_xf_velcurve=power
+<region> sample=04-HTfilter-64-C_2.wav key=c3 hikey=g8 lokey=c-2 volume=12 offset=72022 end=178544 loop_start=72022 loop_end=178544
+
+<group> //4
+xfin_locc1=65 xfin_hicc1=80 xfout_xf_velcurve=power
+<region> sample=04-HTfilter-80-C_2.wav key=c3 hikey=g8 lokey=c-2 volume=12 offset=88392 end=154626 loop_start=88392 loop_end=154626
+
+<group> //5
+xfin_locc1=81 xfin_hicc1=96 xfout_xf_velcurve=power
+<region> sample=04-HTfilter-96-C_2.wav key=c3 hikey=g8 lokey=c-2 volume=12 offset=98774 end=178316 loop_start=98774 loop_end=178316
+
+<group> //6
+xfin_locc1=7 xfin_hicc1=111 xfout_xf_velcurve=power
+<region> sample=04-HTfilter-111-C_2.wav key=c3 hikey=g8 lokey=c-2 volume=12 offset=97137 end=175835 loop_start=97137 loop_end=175835
+
+<group> //7
+xfin_locc1=112 xfin_hicc1=127 xfout_xf_velcurve=power
+<region> sample=04-HTfilter-127-C_2.wav key=c3 hikey=g8 lokey=c-2 volume=12 offset=89323 end=154031 loop_start=89323 loop_end=154031
+

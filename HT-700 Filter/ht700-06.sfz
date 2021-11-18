@@ -1,0 +1,15 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - ht700-06.exs    by EXS2SFZ 1.1.9 - Beta v10 (macOS)
+
+<control>
+default_path=../Audio/HT-700 Filter/
+
+<group>        // Group
+<region> sample=06-HTfilter-48-C.wav pitch_keycenter=61 lokey=0 hikey=127 lovel=32 hivel=47 pitch_keytrack=0 volume=20 offset=10923 loop_mode=loop_continuous loop_start=10923 loop_end=1495707
+<region> sample=06-HTfilter-96-C.wav pitch_keycenter=61 lokey=0 hikey=127 lovel=80 hivel=95 pitch_keytrack=0 volume=12 offset=39409 loop_mode=loop_continuous loop_start=39409 loop_end=1508848
+<region> sample=06-HTfilter-64-C.wav pitch_keycenter=61 lokey=0 hikey=127 lovel=48 hivel=63 pitch_keytrack=0 volume=16 offset=26901 loop_mode=loop_continuous loop_start=26901 loop_end=340225
+<region> sample=06-HTfilter-32-C.wav pitch_keycenter=61 lokey=0 hikey=127 lovel=16 hivel=31 pitch_keytrack=0 volume=23 offset=148996 loop_mode=loop_continuous loop_start=148996 loop_end=1477125
+<region> sample=06-HTfilter-80-C.wav pitch_keycenter=61 lokey=0 hikey=127 lovel=64 hivel=79 pitch_keytrack=0 volume=14 offset=18104 loop_mode=loop_continuous loop_start=18104 loop_end=1144509
+<region> sample=06-HTfilter-16-C.wav pitch_keycenter=61 lokey=0 hikey=127 lovel=0 hivel=15 pitch_keytrack=0 volume=26 offset=290511 loop_mode=loop_continuous loop_start=290511 loop_end=1357562
+<region> sample=06-HTfilter-127-C.wav pitch_keycenter=61 lokey=0 hikey=127 lovel=112 hivel=127 pitch_keytrack=0 volume=10 offset=938234 loop_mode=loop_continuous loop_start=938234 loop_end=1490171
+<region> sample=06-HTfilter-111-C.wav pitch_keycenter=61 lokey=0 hikey=127 lovel=96 hivel=111 pitch_keytrack=0 volume=11 offset=784891 loop_mode=loop_continuous loop_start=784891 loop_end=1441277
