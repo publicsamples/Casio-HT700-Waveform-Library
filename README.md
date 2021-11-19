@@ -18,5 +18,5 @@ All the waveforms from Casio's HT-700 presented in two parts. In the first the w
 
 [
 ![usbdrive](https://www.modularsamples.com/img/USB.png)
-](https://www.modularsamples.com/sample-library-on-usb-drive//)
+](https://www.modularsamples.com/sample-library-on-usb-drive/)
 
