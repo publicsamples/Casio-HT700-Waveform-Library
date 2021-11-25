@@ -8,6 +8,7 @@ All the waveforms from Casio's HT-700 presented in two parts. In the first the w
 **Download Audio**
 
 [Part 1: HT-700-Filter.zip 662 MB](https://github.com/publicsamples/Casio-HT700-Waveform-Library/releases/download/1.0/HT-700-Filter.zip)
+
 [Part 2: Modular.Filters.zip 1.4 GB](https://github.com/publicsamples/Casio-HT700-Waveform-Library/releases/download/1.0/Modular.Filters.zip)
 
 ## **Get help**
@@ -17,6 +18,6 @@ All the waveforms from Casio's HT-700 presented in two parts. In the first the w
 ## **Support this project**
 
 [
-![usbdrive](https://www.modularsamples.com/img/USB.png)
-](https://www.modularsamples.com/sample-library-on-usb-drive/)
+![ht10](https://www.modularsamples.com/ht10.png)
+](https://modularsamples.gumroad.com/l/zDtupV)
 
